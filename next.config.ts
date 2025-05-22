@@ -1,5 +1,5 @@
 import { withSentryConfig } from "@sentry/nextjs";
-import type { NextConfig, NextRequest } from "next";
+import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
